@@ -4,9 +4,9 @@
 Список учебных работ:
 - [Алгоритмы и структуры данных]()
 - [Шаблоны проектирования]()
-- [Многопоточное програмирование](https://github.com/romanova-nat/list-multithreading-/blob/main/README.md)
+- [Многопоточное програмирование](https://github.com/romanova-nat/list-multithreading-)
 - [Курсовой проект "Сетевой чат"]()
-- [Web, Spring, Spring MVC]()
+- [Web, Spring, Spring MVC](https://github.com/romanova-nat/list-web_spring_mvc)
 - [Spring Boot, deployment и инфраструктура]()
 - [Хранение данных и организация безопасности](https://github.com/romanova-nat/list-security)
 - [Дипломная работа "Облачное хранилище"](https://github.com/romanova-nat/Cloude)
