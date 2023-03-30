@@ -2,7 +2,7 @@
 окончила курс Нетологии ["Java-разработчик".](https://netology.ru/programs/java-developer?recommended_by=instant_search)
 
 #### Список учебных работ:
-- [Паттерны проектирования]()
+- [Паттерны проектирования](https://github.com/romanova-nat/list-patterns)
 - [Java core]()
 - [Многопоточное програмирование](https://github.com/romanova-nat/list-multithreading-)
 - [Web, Spring, Spring MVC](https://github.com/romanova-nat/list-web_spring_mvc)
