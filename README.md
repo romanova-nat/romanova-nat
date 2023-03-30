@@ -8,7 +8,7 @@
 - [Курсовой проект "Сетевой чат"]()
 - [Web, Spring, Spring MVC]()
 - [Spring Boot, deployment и инфраструктура]()
-- [Хранение данных и организация безопасности](https://github.com/romanova-nat/SpringSecurity)
+- [Хранение данных и организация безопасности](https://github.com/romanova-nat/list-security/new/main?readme=1)
 - [Дипломная работа "Облачное хранилище"](https://github.com/romanova-nat/Cloude)
 
  Мои сертификаты:
