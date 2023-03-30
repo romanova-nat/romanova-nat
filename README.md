@@ -1,4 +1,4 @@
-### Я, Романова Наталья,
+### Hello, я - Наталья Романова
 окончила курс Нетологии ["Java-разработчик".](https://netology.ru/programs/java-developer?recommended_by=instant_search)
 
 #### Список учебных работ:
