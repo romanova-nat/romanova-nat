@@ -3,7 +3,7 @@
 
 #### Список учебных работ:
 - [Паттерны проектирования](https://github.com/romanova-nat/list-patterns)
-- [Java core]()
+- [Java core](https://github.com/romanova-nat/list-core)
 - [Многопоточное програмирование](https://github.com/romanova-nat/list-multithreading-)
 - [Web, Spring, Spring MVC](https://github.com/romanova-nat/list-web_spring_mvc)
 - [Spring Boot, deployment и инфраструктура](https://github.com/romanova-nat/list-spring_boot)
