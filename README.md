@@ -11,6 +11,7 @@
 - [Дипломная работа "Облачное хранилище"](https://github.com/romanova-nat/Cloude)
 
 #### Мои сертификаты:
+- [SQL](https://github.com/romanova-nat/sertifications/blob/main/sql.pdf)
 - [Алгоритмы](https://github.com/romanova-nat/sertifications/blob/main/Algo.jpeg)
 - [Git](https://github.com/romanova-nat/sertifications/blob/main/Git.jpeg)
 - [Шаблоны проетирования](https://github.com/romanova-nat/sertifications/blob/main/Patterns.jpeg)
